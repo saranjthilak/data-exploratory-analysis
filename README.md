@@ -1,5 +1,6 @@
-## Data Exploration
+# Data Exploratory Analysis
 
-Let's look at our DataFrames.
+A hands-on, notebook-driven exploration of datasets using Python. This repository walks you through key steps in data analysis, from loading and inspecting data, to visualization and preliminary insights.
 
-✏️ Open your `exploratory_analysis.ipynb` notebook and follow instructions written in it.
+##  Repository Structure
+
